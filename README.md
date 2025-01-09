@@ -20,3 +20,4 @@ Improve performance
 Change theme color
 Add documentation
 Update dependencies
+Optimize loop
