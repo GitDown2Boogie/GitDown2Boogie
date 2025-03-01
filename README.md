@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Improve performance
 Remove unused imports
 Improve performance
+Change theme color
